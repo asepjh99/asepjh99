@@ -1,6 +1,6 @@
 # Hey 👋, I'm Asep Khoerudin! <br>
 
-I'm a beginner in the world of Data Science. I have skills in data analysis, data science, and data visualization using PostgreSQL, Python, and Tableau. I graduated with a Bachelor's degree in Electrical Engineering from UIN Sunan Gunung Djati Bandung and completed a Data Science Bootcamp at Rakamin Academy. I've worked on several projects, including Analyzing eCommerce Business Performance with SQL, Investigate Hotel Business using Data Visualization, Predict Customer Personality to Boost Marketing Campaign by Using Machine Learning, Predict Customer Clicked Ads Classification by Using Machine Learning, Improving Employee Retention by Predicting Employee Attrition Using Machine Learning, and Prediction Credit-Risk Using Machine LearningL<br>
+I'm a beginner in the world of Data Science. I have skills in data analysis, data science, and data visualization using PostgreSQL, Python, and Tableau. I graduated with a Bachelor's degree in Electrical Engineering from UIN Sunan Gunung Djati Bandung and completed a Data Science Bootcamp at Rakamin Academy. I've worked on several projects, including Analyzing eCommerce Business Performance with SQL, Investigate Hotel Business using Data Visualization, Predict Customer Personality to Boost Marketing Campaign by Using Machine Learning, Predict Customer Clicked Ads Classification by Using Machine Learning, Improving Employee Retention by Predicting Employee Attrition Using Machine Learning, and Prediction Credit-Risk Using Machine Learning<br>
 
 
 ## 🌐 Socials:
